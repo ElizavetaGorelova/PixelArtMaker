@@ -8,7 +8,7 @@ This game was built for the Udacity Intro to Programming Nanodegree Program. The
 You can run a hosted version of the app at https://ElizavetaGorelova.github.io/PixelArtMaker/
 
 ## How to Use the App
-1. Set the canvas size using the width and height input selects boxes. When finished, click on submit.
+1. Set the canvas size using the width and height input selects boxes.
 2. Choose a color from the color picker input box.
 3. Click on any box in the grid to change that boxes color.
 4. Repeat steps 2 and 3 until your design is complete.
