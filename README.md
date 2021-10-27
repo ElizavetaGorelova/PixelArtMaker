@@ -5,7 +5,7 @@ A one-page web application that lets users draw a pixel image on a customizable 
 This game was built for the Udacity Intro to Programming Nanodegree Program. The purpose of the project is to demonstrate understanding of JavaScript and HTML event listeners by building a single-page web app that allows users to draw pixel art on a customizable canvas.
 
 ## How to Load the App
-You can run a hosted version of the app at https://ElizavetaGorelova.github.io/PixelArtMaker/
+You can run a hosted version of the app at https://github.com/ElizavetaGorelova/PixelArtMaker.git
 
 ## How to Use the App
 1. Set the canvas size using the width and height input selects boxes.
